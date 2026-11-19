@@ -1,0 +1,3 @@
+# PostgreSQL driver, used only when DATABASE_URL is set (on Render).
+# Everything else the app needs is built into Python.
+psycopg[binary]==3.2.3

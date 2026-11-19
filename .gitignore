@@ -1,0 +1,14 @@
+# Secrets and settings
+.env
+.env.*
+
+# Local database files (signups live here on a laptop; never commit them)
+*.db
+*.sqlite
+*.sqlite3
+
+# Python leftovers
+__pycache__/
+*.pyc
+.venv/
+venv/
